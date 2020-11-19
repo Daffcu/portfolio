@@ -1,0 +1,116 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1605789208304">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4107600695" ref="contact:index:about"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4067845410" ref="contact:index:about"/>
+    <file name="contact.css" crc="3799497437" ref="contact"/>
+    <file name="nomq_contact.css" crc="90646169" ref="contact"/>
+    <file name="index.css" crc="299735478" ref="index"/>
+    <file name="nomq_index.css" crc="278529327" ref="index"/>
+    <file name="about.css" crc="72019909" ref="about"/>
+    <file name="nomq_about.css" crc="3790090733" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="logoicon.ico" crc="4135654364" seo="true" mt="1600863365000"/>
+    <file name="31e0cd00edd8d75f68a4ee78ca55b8af.png" crc="4009862410" seo="true" mt="1603123060000"/>
+    <file name="botanical-garden.png" crc="3806378194" seo="true" mt="1603124553000"/>
+    <file name="ii-festival-internacional-de-dansa.png" crc="308579013" seo="true" mt="1603124977000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about"/>
+    <file name="museutils.js" crc="3939489907" ref="index:contact:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about"/>
+    <file name="museconfig.js" crc="128606099" ref="index:contact:about"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:contact:about"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:contact:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:contact:about"/>
+    <file name="require.js" crc="4177726516" ref="index:contact:about"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="204142882" ref="index"/>
+    <file name="logo.jpg" crc="457110253" seo="true" ref="index:contact:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u882-4.png" crc="4176940863" ref="index"/>
+    <file name="u882-42.png" crc="4176940863" ref="index"/>
+    <file name="u882-43.png" crc="4176940863" ref="index"/>
+    <file name="u882-44.png" crc="4176940863" ref="index"/>
+    <file name="u882-45.png" crc="4176940863" ref="index"/>
+    <file name="u882-46.png" crc="4176940863" ref="index"/>
+    <file name="u882-47.png" crc="4176940863" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about"/>
+    <file name="logo_mesa de trabajo 1.png" crc="3899845743" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="social-web_mesa-de-trabajo-1.svg" crc="3900420595" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="social web_mesa de trabajo 1_poster_.png" crc="3907322005" ref="about"/>
+    <file name="social-web-02.svg" crc="51328536" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="social web-02_poster_.png" crc="134336049" ref="about"/>
+    <file name="social-web-03.svg" crc="35263895" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="social web-03_poster_.png" crc="216792006" ref="about"/>
+    <file name="social-web-04.svg" crc="2957460" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="social web-04_poster_.png" crc="4149380874" ref="about"/>
+    <file name="logo_mesa de trabajo 1282x284.png" crc="113723519" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo_mesa de trabajo 1200x201.png" crc="4117762117" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="66271959" seo="true" mt="1605789168405" redirect="true"/>
+  <file name="contact.html" crc="4130699008" seo="true" mt="1603128876011" redirect="true"/>
+  <file name="about.html" crc="251263188" seo="true" mt="1603129243644" redirect="true"/>
+</manifest>
