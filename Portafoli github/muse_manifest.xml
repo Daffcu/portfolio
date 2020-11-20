@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1605789208304">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1605875017327">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="4107600695" ref="contact:index:about"/>
+    <file name="master_a-p_g_-maestra.css" crc="48387378" ref="contact:index:about"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4067845410" ref="contact:index:about"/>
     <file name="contact.css" crc="3799497437" ref="contact"/>
     <file name="nomq_contact.css" crc="90646169" ref="contact"/>
-    <file name="index.css" crc="299735478" ref="index"/>
-    <file name="nomq_index.css" crc="278529327" ref="index"/>
+    <file name="index.css" crc="4088910065" ref="index"/>
+    <file name="nomq_index.css" crc="257265056" ref="index"/>
     <file name="about.css" crc="72019909" ref="about"/>
     <file name="nomq_about.css" crc="3790090733" ref="about"/>
   </folder>
@@ -110,7 +110,7 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="66271959" seo="true" mt="1605789168405" redirect="true"/>
+  <file name="index.html" crc="3881590567" seo="true" mt="1605874992310" redirect="true"/>
   <file name="contact.html" crc="4130699008" seo="true" mt="1603128876011" redirect="true"/>
   <file name="about.html" crc="251263188" seo="true" mt="1603129243644" redirect="true"/>
 </manifest>
