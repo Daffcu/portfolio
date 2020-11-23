@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1605875017327">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1605876690401">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="48387378" ref="contact:index:about"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4067845410" ref="contact:index:about"/>
-    <file name="contact.css" crc="3799497437" ref="contact"/>
-    <file name="nomq_contact.css" crc="90646169" ref="contact"/>
-    <file name="index.css" crc="4088910065" ref="index"/>
-    <file name="nomq_index.css" crc="257265056" ref="index"/>
-    <file name="about.css" crc="72019909" ref="about"/>
-    <file name="nomq_about.css" crc="3790090733" ref="about"/>
+    <file name="master_a-p_g_-maestra.css" crc="447825585" ref="contact:index:about"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="459517967" ref="contact:index:about"/>
+    <file name="contact.css" crc="4218638305" ref="contact"/>
+    <file name="nomq_contact.css" crc="467250580" ref="contact"/>
+    <file name="index.css" crc="4093622733" ref="index"/>
+    <file name="nomq_index.css" crc="4136582894" ref="index"/>
+    <file name="about.css" crc="4272490601" ref="about"/>
+    <file name="nomq_about.css" crc="11743892" ref="about"/>
   </folder>
   <folder name="assets">
     <file name="logoicon.ico" crc="4135654364" seo="true" mt="1600863365000"/>
@@ -26,6 +26,11 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:about"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index:contact:about"/>
     <file name="require.js" crc="4177726516" ref="index:contact:about"/>
+    <file name="webpro.js" crc="3856315280" ref="contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u6048.php" crc="3814345380" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="204142882" ref="index"/>
@@ -34,14 +39,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="u882-4.png" crc="4176940863" ref="index"/>
     <file name="u882-42.png" crc="4176940863" ref="index"/>
@@ -110,7 +115,7 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3881590567" seo="true" mt="1605874992310" redirect="true"/>
-  <file name="contact.html" crc="4130699008" seo="true" mt="1603128876011" redirect="true"/>
-  <file name="about.html" crc="251263188" seo="true" mt="1603129243644" redirect="true"/>
+  <file name="index.html" crc="490323835" seo="true" mt="1605875543802" redirect="true"/>
+  <file name="contact.html" crc="509985497" seo="true" mt="1605875759537" redirect="true"/>
+  <file name="about.html" crc="350974691" seo="true" mt="1605876646565" redirect="true"/>
 </manifest>
