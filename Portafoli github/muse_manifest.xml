@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1614002578653">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1614003167574">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="4099713823" ref="contact:index:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="master_a-p_g_-maestra.css" crc="447825585" ref="contact:index:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="459517967" ref="contact:index:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
     <file name="contact.css" crc="174916142" ref="contact"/>
     <file name="nomq_contact.css" crc="73599025" ref="contact"/>
-    <file name="index.css" crc="266051167" ref="index"/>
+    <file name="index.css" crc="251647268" ref="index"/>
     <file name="nomq_index.css" crc="3773263475" ref="index"/>
     <file name="about.css" crc="3809085299" ref="about"/>
     <file name="nomq_about.css" crc="4068925424" ref="about"/>
@@ -21,6 +21,7 @@
     <file name="botanical-garden.png" crc="3806378194" seo="true" mt="1603124553000"/>
     <file name="ii-festival-internacional-de-dansa.png" crc="308579013" seo="true" mt="1603124977000"/>
     <file name="snippet_316442f1d.idms" crc="4103115795" seo="true" mt="1613995549000"/>
+    <file name="image-plus-hover.mulib" crc="414621254" seo="true" mt="1490443554000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
@@ -223,8 +224,38 @@
       <caption webpage="festival-de-danza" alt=""/>
       <caption webpage="festival-de-danza" alt=""/>
     </file>
+    <file name="31e0cd00edd8d75f68a4ee78ca55b8af.jpg" crc="334532476" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="botanical-garden.png" crc="3806378194" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ii-festival-internacional-de-dansa.png" crc="308579013" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4138623256" seo="true" mt="1614002543963" redirect="true"/>
+  <file name="index.html" crc="4216434968" seo="true" mt="1614003158338" redirect="true"/>
   <file name="contact.html" crc="285710505" seo="true" mt="1613991701892" redirect="true"/>
   <file name="about.html" crc="4146730986" seo="true" mt="1613991701892" redirect="true"/>
   <file name="market-cases.html" crc="431643004" seo="true" mt="1614002469849" redirect="true"/>

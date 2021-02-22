@@ -10,15 +10,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://daffspointed.com/contact.html</loc>
-    <lastmod>2021-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://daffspointed.com/images/logo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://daffspointed.com/saint-paul-s-garden.html</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,6 +103,15 @@
     </image:image>
   </url>
   <url>
+    <loc>http://daffspointed.com/contact.html</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/logo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://daffspointed.com/about.html</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,7 +142,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://daffspointed.com/assets/ii-festival-internacional-de-dansa.png</loc>
+    <loc>http://daffspointed.com/assets/botanical-garden.png</loc>
     <lastmod>2020-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -154,19 +154,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://daffspointed.com/assets/logoicon.ico</loc>
+    <loc>http://daffspointed.com/assets/ii-festival-internacional-de-dansa.png</loc>
     <lastmod>2020-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://daffspointed.com/assets/botanical-garden.png</loc>
-    <lastmod>2020-10-19</lastmod>
+    <loc>http://daffspointed.com/assets/image-plus-hover.mulib</loc>
+    <lastmod>2017-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daffspointed.com/assets/31e0cd00edd8d75f68a4ee78ca55b8af.png</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daffspointed.com/assets/logoicon.ico</loc>
     <lastmod>2020-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
