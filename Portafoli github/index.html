@@ -11,25 +11,25 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=204142882"/>
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-p_g_-maestra.css?crc=447825585"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4093622733" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-p_g_-maestra.css?crc=4099713823"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=266051167" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-p_g_-maestra.css?crc=459517967"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4136582894" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3773263475" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-  <script src="https://use.typekit.net/ik/pPXD9oIEuXA-8Iv8ZFWlt89LjKVt94RosPEHwgAlcQ3feTGgf4dEubbPH2qa5Qjt52ZLZcJujQMXFRiRF2Z85esRweI3ZRyyFD63jQ9uFDF8ZRS-5fG0ZeBcZ1F3dh80iemqOcFzdPUqjAZcSagz-AoXZAb0jhNlOYiaikoqjAZcSagz-AoXZAb0jhNlJ6U7daF8Zc80OWFyd1w7fbKOpyMMeMb6MKG4fJiEIMMjgkMfP6sFiWF8qMYbNN_Ngb.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/rtlFSPJE9Vdt8nxlYVZEqnqvDhcRbz881kN8adMJN0wfeTGgf4dEubbPH2qa5Qjt52ZLZcJujQMXFRiRF2Z85esRweI3ZRyyFD63jQ9uFDF8ZRS-5fG0ZeBcZ1F3dh80iemqOcFzdPUqjAZcSagz-AoXZAb0jhNlOYiaikoqjAZcSagz-AoXZAb0jhNlJ6U7daF8Zc80OWFyd1w7fbKOpyMMeMb6MKG4fJiEIMMjgkMfP6sFiWF8qMeOvvEgg6.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -376,9 +376,22 @@ display: block;
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="1201"><!-- responsive breakpoint node -->
    <div class="clearfix" id="page"><!-- group -->
-    <div class="clearfix grpelem" id="pu896"><!-- column -->
-     <div class="clip_frame colelem shared_content" id="u896" data-content-guid="u896_content"><!-- image -->
-      <img class="block temp_no_img_src" id="u896_img" data-orig-src="images/logo.jpg?crc=457110253" alt="" width="31" height="42" src="images/blank.gif?crc=4208392903"/>
+    <div class="clearfix grpelem" id="ppu896"><!-- column -->
+     <div class="clearfix colelem" id="pu896"><!-- group -->
+      <div class="clip_frame grpelem shared_content" id="u896" data-content-guid="u896_content"><!-- image -->
+       <img class="block temp_no_img_src" id="u896_img" data-orig-src="images/logo.jpg?crc=457110253" alt="" width="31" height="42" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <nav class="MenuBar clearfix grpelem" id="menuu657"><!-- horizontal box -->
+       <div class="MenuItemContainer clearfix grpelem" id="u665"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u666" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u669-4"><!-- content --><p class="shared_content" data-content-guid="u669-4_0_content">Home</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u702"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u703" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u705-4"><!-- content --><p class="shared_content" data-content-guid="u705-4_0_content">About</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u5943"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5946" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5948-4"><!-- content --><p class="shared_content" data-content-guid="u5948-4_0_content">Contact</p></div></a>
+       </div>
+      </nav>
      </div>
      <div class="clearfix colelem" id="pu1000"><!-- group -->
       <div class="browser_width grpelem shared_content" id="u1000-bw" data-content-guid="u1000-bw_content">
@@ -397,7 +410,7 @@ display: block;
       <div class="grpelem" id="u994" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="61" data-mu-ie-matrix-dy="-61"><!-- simple frame --></div>
       <div class="grpelem" id="u1220" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="61" data-mu-ie-matrix-dy="-61"><!-- simple frame --></div>
       <div class="grpelem" id="u4011" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="61" data-mu-ie-matrix-dy="-61"><!-- simple frame --></div>
-      <img class="grpelem temp_no_img_src" id="u882-4" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-4.png?crc=4176940863" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <img class="grpelem temp_no_img_src" id="u882-4" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-4.png?crc=207047280" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
       <div class="clearfix grpelem shared_content" id="u775-4" data-content-guid="u775-4_content"><!-- content -->
        <h1>d</h1>
       </div>
@@ -439,8 +452,7 @@ display: block;
      <div class="clearfix colelem shared_content" id="u889-4" data-content-guid="u889-4_content"><!-- content -->
       <h2><span id="u889">Featured Works</span></h2>
      </div>
-     <div class="size_fixed colelem shared_content" id="u4506" data-content-guid="u4506_content"><!-- custom html -->
-      
+     <a class="nonblock nontext size_fixed colelem shared_content" id="u4506" href="market-cases.html" data-content-guid="u4506_content"><!-- custom html -->
 <figure class="u4506">
 <img src="assets/31e0cd00edd8d75f68a4ee78ca55b8af.png" /> 
   <figcaption>
@@ -448,10 +460,8 @@ display: block;
   </figcaption>
   <a href="MarketCases.html"></a>
 </figure>
-
-     </div>
-     <div class="size_fixed colelem shared_content" id="u4507" data-content-guid="u4507_content"><!-- custom html -->
-      
+</a>
+     <a class="nonblock nontext size_fixed colelem shared_content" id="u4507" href="saint-paul-s-garden.html" data-content-guid="u4507_content"><!-- custom html -->
 <figure class="u4507">
 <img src="assets/botanical-garden.png" /> 
   <figcaption>
@@ -459,10 +469,8 @@ display: block;
   </figcaption>
   <a href="MarketCases.html"></a>
 </figure>
-
-     </div>
-     <div class="size_fixed colelem shared_content" id="u4508" data-content-guid="u4508_content"><!-- custom html -->
-      
+</a>
+     <a class="nonblock nontext size_fixed colelem shared_content" id="u4508" href="festival-de-danza.html" data-content-guid="u4508_content"><!-- custom html -->
 <figure class="u4508">
 <img src="assets/ii-festival-internacional-de-dansa.png" /> 
   <figcaption>
@@ -470,21 +478,9 @@ display: block;
   </figcaption>
   <a href="MarketCases.html"></a>
 </figure>
-
-     </div>
+</a>
     </div>
-    <nav class="MenuBar clearfix" id="menuu657"><!-- horizontal box -->
-     <div class="MenuItemContainer clearfix grpelem" id="u665"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u666" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u669-4"><!-- content --><p class="shared_content" data-content-guid="u669-4_0_content">Home</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u702"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u703" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u705-4"><!-- content --><p class="shared_content" data-content-guid="u705-4_0_content">About</p></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u5943"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5946" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5948-4"><!-- content --><p class="shared_content" data-content-guid="u5948-4_0_content">Contact</p></div></a>
-     </div>
-    </nav>
-    <div class="verticalspacer shared_content" data-offset-top="2143" data-content-above-spacer="2143" data-content-below-spacer="61" data-content-guid="page_2_content"></div>
+    <div class="verticalspacer shared_content" data-offset-top="2143" data-content-above-spacer="2143" data-content-below-spacer="61" data-content-guid="page_1_content"></div>
     <div class="clearfix grpelem shared_content" id="u747-4" data-content-guid="u747-4_content"><!-- content -->
      <p>@daffspointed</p>
     </div>
@@ -508,7 +504,7 @@ display: block;
       <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="66" data-mu-ie-matrix-dy="-65" data-orig-id="u994" data-content-guid="u994_content"><!-- simple frame --></div>
       <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="66" data-mu-ie-matrix-dy="-65" data-orig-id="u1220" data-content-guid="u1220_content"><!-- simple frame --></div>
       <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="66" data-mu-ie-matrix-dy="-65" data-orig-id="u4011" data-content-guid="u4011_content"><!-- simple frame --></div>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-42.png?crc=4176940863" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <img class="grpelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-42.png?crc=207047280" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u775-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u814-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u784-4_content"><!-- placeholder node --></span>
@@ -526,9 +522,9 @@ display: block;
       <span class="placeholder" data-placeholder-for="u888_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u889-4_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu657"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u665"><!-- vertical box -->
@@ -541,7 +537,7 @@ display: block;
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem temp_no_id" href="contact.html" data-orig-id="u5946"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u5948-4"><!-- content --><span class="placeholder" data-placeholder-for="u5948-4_0_content"><!-- placeholder node --></span></div></a>
      </div>
     </nav>
-    <span class="verticalspacer placeholder" data-placeholder-for="page_2_content"><!-- placeholder node --></span>
+    <div class="verticalspacer shared_content" data-offset-top="2143" data-content-above-spacer="2143" data-content-below-spacer="61" data-content-guid="page_2_content"></div>
     <span class="clearfix grpelem placeholder" data-placeholder-for="u747-4_content"><!-- placeholder node --></span>
     <span class="clearfix grpelem placeholder" data-placeholder-for="u750-4_content"><!-- placeholder node --></span>
    </div>
@@ -561,7 +557,7 @@ display: block;
       <span class="grpelem placeholder" data-placeholder-for="u994_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u1220_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u4011_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-43.png?crc=4176940863" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <img class="grpelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-43.png?crc=207047280" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u775-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u814-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u784-4_content"><!-- placeholder node --></span>
@@ -577,9 +573,9 @@ display: block;
      </div>
      <span class="colelem placeholder" data-placeholder-for="u888_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u889-4_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu657"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u665"><!-- vertical box -->
@@ -629,13 +625,13 @@ display: block;
      </div>
      <div class="clearfix colelem" id="pu994"><!-- group -->
       <span class="grpelem placeholder" data-placeholder-for="u994_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-44.png?crc=4176940863" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <img class="grpelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-44.png?crc=207047280" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      </div>
      <span class="colelem placeholder" data-placeholder-for="u888_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u889-4_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu657"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u665"><!-- vertical box -->
@@ -670,10 +666,10 @@ display: block;
       <span class="clearfix grpelem placeholder" data-placeholder-for="u778-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u796-4_content"><!-- placeholder node --></span>
      </div>
-     <img class="colelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-45.png?crc=4176940863" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <img class="colelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-45.png?crc=207047280" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu657"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u665"><!-- vertical box -->
@@ -708,10 +704,10 @@ display: block;
       <span class="clearfix grpelem placeholder" data-placeholder-for="u778-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u796-4_content"><!-- placeholder node --></span>
      </div>
-     <img class="colelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-46.png?crc=4176940863" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <img class="colelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-46.png?crc=207047280" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu657"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u665"><!-- vertical box -->
@@ -746,12 +742,12 @@ display: block;
       <span class="clearfix grpelem placeholder" data-placeholder-for="u778-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u796-4_content"><!-- placeholder node --></span>
      </div>
-     <img class="colelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-47.png?crc=4176940863" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <img class="colelem temp_no_id temp_no_img_src" alt="SCROLL DOWN" width="193" height="20" data-orig-src="images/u882-47.png?crc=207047280" data-orig-id="u882-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer shared_content" data-offset-top="2143" data-content-above-spacer="2143" data-content-below-spacer="61" data-content-guid="page_1_content"></div>
+    <span class="verticalspacer placeholder" data-placeholder-for="page_1_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem" id="pu750-4"><!-- column -->
      <span class="clearfix colelem placeholder" data-placeholder-for="u750-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u747-4_content"><!-- placeholder node --></span>
@@ -775,9 +771,9 @@ display: block;
       <span class="clearfix grpelem placeholder" data-placeholder-for="u778-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u796-4_content"><!-- placeholder node --></span>
      </div>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
-     <span class="size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4506_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4507_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext size_fixed colelem placeholder" data-placeholder-for="u4508_content"><!-- placeholder node --></span>
     </div>
     <span class="verticalspacer placeholder" data-placeholder-for="page_1_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu750-4"><!-- column -->
@@ -804,7 +800,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */

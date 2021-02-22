@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://daffspointed.com/index.html</loc>
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://daffspointed.com/contact.html</loc>
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,8 +19,101 @@
     </image:image>
   </url>
   <url>
+    <loc>http://daffspointed.com/saint-paul-s-garden.html</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-143916x126.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/office3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-173251x291.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-325596x97.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-146299x75.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-204327x413.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-247623x107.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-515026x146.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/svg-pegado-545704x146.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/entrega%20final%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/entrega%20final%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://daffspointed.com/market-cases.html</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/imagen%20pegada%20431x301.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/ventana_mockup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/sin%20t%C3%ADtulo-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/imagen%20pegada%201061x930.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/market%20front.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/producto%20destacado.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://daffspointed.com/festival-de-danza.html</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/imagen%20pegada%20663x833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/imagen%20pegada%20808x563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/mockup_1v.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://daffspointed.com/images/classica.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://daffspointed.com/about.html</loc>
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,7 +142,19 @@
     </image:image>
   </url>
   <url>
-    <loc>http://daffspointed.com/assets/31e0cd00edd8d75f68a4ee78ca55b8af.png</loc>
+    <loc>http://daffspointed.com/assets/ii-festival-internacional-de-dansa.png</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daffspointed.com/assets/snippet_316442f1d.idms</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daffspointed.com/assets/logoicon.ico</loc>
     <lastmod>2020-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,13 +166,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://daffspointed.com/assets/logoicon.ico</loc>
-    <lastmod>2020-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://daffspointed.com/assets/ii-festival-internacional-de-dansa.png</loc>
+    <loc>http://daffspointed.com/assets/31e0cd00edd8d75f68a4ee78ca55b8af.png</loc>
     <lastmod>2020-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

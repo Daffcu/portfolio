@@ -1,31 +1,37 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1605876690401">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daffspointed.com" resolutions="1x" timestamp="1614002578653">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="447825585" ref="contact:index:about"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="459517967" ref="contact:index:about"/>
-    <file name="contact.css" crc="4218638305" ref="contact"/>
-    <file name="nomq_contact.css" crc="467250580" ref="contact"/>
-    <file name="index.css" crc="4093622733" ref="index"/>
-    <file name="nomq_index.css" crc="4136582894" ref="index"/>
-    <file name="about.css" crc="4272490601" ref="about"/>
-    <file name="nomq_about.css" crc="11743892" ref="about"/>
+    <file name="master_a-p_g_-maestra.css" crc="4099713823" ref="contact:index:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="459517967" ref="contact:index:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="contact.css" crc="174916142" ref="contact"/>
+    <file name="nomq_contact.css" crc="73599025" ref="contact"/>
+    <file name="index.css" crc="266051167" ref="index"/>
+    <file name="nomq_index.css" crc="3773263475" ref="index"/>
+    <file name="about.css" crc="3809085299" ref="about"/>
+    <file name="nomq_about.css" crc="4068925424" ref="about"/>
+    <file name="market-cases.css" crc="4282492189" ref="market-cases"/>
+    <file name="saint-paul-s-garden.css" crc="44627852" ref="saint-paul-s-garden"/>
+    <file name="nomq_saint-paul-s-garden.css" crc="432938814" ref="saint-paul-s-garden"/>
+    <file name="festival-de-danza.css" crc="4290502503" ref="festival-de-danza"/>
+    <file name="nomq_festival-de-danza.css" crc="3788522814" ref="festival-de-danza"/>
   </folder>
   <folder name="assets">
-    <file name="logoicon.ico" crc="4135654364" seo="true" mt="1600863365000"/>
+    <file name="logoicon.ico" crc="4135654364" seo="true" mt="1603125821000"/>
     <file name="31e0cd00edd8d75f68a4ee78ca55b8af.png" crc="4009862410" seo="true" mt="1603123060000"/>
     <file name="botanical-garden.png" crc="3806378194" seo="true" mt="1603124553000"/>
     <file name="ii-festival-internacional-de-dansa.png" crc="308579013" seo="true" mt="1603124977000"/>
+    <file name="snippet_316442f1d.idms" crc="4103115795" seo="true" mt="1613995549000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about"/>
-    <file name="museutils.js" crc="3939489907" ref="index:contact:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contact:about"/>
-    <file name="museconfig.js" crc="128606099" ref="index:contact:about"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:contact:about"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:contact:about"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index:contact:about"/>
-    <file name="require.js" crc="4177726516" ref="index:contact:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="museutils.js" crc="3939489907" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="museconfig.js" crc="128606099" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:contact:about:saint-paul-s-garden:festival-de-danza"/>
+    <file name="require.js" crc="4177726516" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza"/>
     <file name="webpro.js" crc="3856315280" ref="contact"/>
     <file name="form_check.php" crc="4108222811" ref="contact"/>
     <file name="form_throttle.php" crc="503802655" ref="contact"/>
@@ -34,7 +40,7 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="204142882" ref="index"/>
-    <file name="logo.jpg" crc="457110253" seo="true" ref="index:contact:about">
+    <file name="logo.jpg" crc="457110253" seo="true" ref="index:contact:about:market-cases:saint-paul-s-garden:festival-de-danza">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -47,15 +53,20 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="market-cases" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
     </file>
-    <file name="u882-4.png" crc="4176940863" ref="index"/>
-    <file name="u882-42.png" crc="4176940863" ref="index"/>
-    <file name="u882-43.png" crc="4176940863" ref="index"/>
-    <file name="u882-44.png" crc="4176940863" ref="index"/>
-    <file name="u882-45.png" crc="4176940863" ref="index"/>
-    <file name="u882-46.png" crc="4176940863" ref="index"/>
-    <file name="u882-47.png" crc="4176940863" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:contact:about"/>
+    <file name="u882-4.png" crc="207047280" ref="index"/>
+    <file name="u882-42.png" crc="207047280" ref="index"/>
+    <file name="u882-43.png" crc="207047280" ref="index"/>
+    <file name="u882-44.png" crc="207047280" ref="index"/>
+    <file name="u882-45.png" crc="207047280" ref="index"/>
+    <file name="u882-46.png" crc="207047280" ref="index"/>
+    <file name="u882-47.png" crc="207047280" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about:saint-paul-s-garden:festival-de-danza"/>
     <file name="logo_mesa de trabajo 1.png" crc="3899845743" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -114,8 +125,109 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="imagen pegada 431x301.jpg" crc="4292585414" seo="true" ref="market-cases">
+      <caption webpage="market-cases" alt=""/>
+    </file>
+    <file name="ventana_mockup.jpg" crc="4169950435" seo="true" ref="market-cases">
+      <caption webpage="market-cases" alt=""/>
+    </file>
+    <file name="sin título-1.jpg" crc="3886829385" seo="true" ref="market-cases">
+      <caption webpage="market-cases" alt=""/>
+    </file>
+    <file name="imagen pegada 1061x930.jpg" crc="4061450736" seo="true" ref="market-cases">
+      <caption webpage="market-cases" alt=""/>
+    </file>
+    <file name="market front.jpg" crc="3831161482" seo="true" ref="market-cases">
+      <caption webpage="market-cases" alt=""/>
+    </file>
+    <file name="producto destacado.jpg" crc="58404820" seo="true" ref="market-cases">
+      <caption webpage="market-cases" alt=""/>
+    </file>
+    <file name="svg-pegado-143916x126.svg" crc="3863714080" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 143916x126_poster_.png" crc="40895838" ref="saint-paul-s-garden"/>
+    <file name="u9410-4.png" crc="73732334" ref="saint-paul-s-garden"/>
+    <file name="u9414-4.png" crc="349066789" ref="saint-paul-s-garden"/>
+    <file name="office3.png" crc="443151620" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg-pegado-173251x291.svg" crc="3811020572" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 173251x291_poster_.png" crc="253513023" ref="saint-paul-s-garden"/>
+    <file name="svg-pegado-325596x97.svg" crc="3826352578" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 325596x97_poster_.png" crc="4277064554" ref="saint-paul-s-garden"/>
+    <file name="svg-pegado-146299x75.svg" crc="372823319" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 146299x75_poster_.png" crc="3950307467" ref="saint-paul-s-garden"/>
+    <file name="svg-pegado-204327x413.svg" crc="4101079538" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 204327x413_poster_.png" crc="4264239020" ref="saint-paul-s-garden"/>
+    <file name="svg-pegado-247623x107.svg" crc="4069881262" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 247623x107_poster_.png" crc="527593965" ref="saint-paul-s-garden"/>
+    <file name="svg-pegado-515026x146.svg" crc="3791229849" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 515026x146_poster_.png" crc="284685113" ref="saint-paul-s-garden"/>
+    <file name="svg-pegado-545704x146.svg" crc="15833365" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="svg pegado 545704x146_poster_.png" crc="4050247210" ref="saint-paul-s-garden"/>
+    <file name="entrega final 2.jpg" crc="3960009509" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="entrega final 1.jpg" crc="460458941" seo="true" ref="saint-paul-s-garden">
+      <caption webpage="saint-paul-s-garden" alt=""/>
+      <caption webpage="saint-paul-s-garden" alt=""/>
+    </file>
+    <file name="u9410-42.png" crc="73732334" ref="saint-paul-s-garden"/>
+    <file name="u9414-42.png" crc="349066789" ref="saint-paul-s-garden"/>
+    <file name="final.jpg" crc="3980996622" seo="true" ref="festival-de-danza">
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+    </file>
+    <file name="imagen pegada 663x833.jpg" crc="402799184" seo="true" ref="festival-de-danza">
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+    </file>
+    <file name="imagen pegada 808x563.jpg" crc="3773645348" seo="true" ref="festival-de-danza">
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+    </file>
+    <file name="mockup_1v.jpg" crc="4150355499" seo="true" ref="festival-de-danza">
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+    </file>
+    <file name="classica.jpg" crc="3932913922" seo="true" ref="festival-de-danza">
+      <caption webpage="festival-de-danza" alt=""/>
+      <caption webpage="festival-de-danza" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="490323835" seo="true" mt="1605875543802" redirect="true"/>
-  <file name="contact.html" crc="509985497" seo="true" mt="1605875759537" redirect="true"/>
-  <file name="about.html" crc="350974691" seo="true" mt="1605876646565" redirect="true"/>
+  <file name="index.html" crc="4138623256" seo="true" mt="1614002543963" redirect="true"/>
+  <file name="contact.html" crc="285710505" seo="true" mt="1613991701892" redirect="true"/>
+  <file name="about.html" crc="4146730986" seo="true" mt="1613991701892" redirect="true"/>
+  <file name="market-cases.html" crc="431643004" seo="true" mt="1614002469849" redirect="true"/>
+  <file name="saint-paul-s-garden.html" crc="4151052438" seo="true" mt="1614002576413" redirect="true"/>
+  <file name="festival-de-danza.html" crc="430955986" seo="true" mt="1614002577652" redirect="true"/>
 </manifest>
